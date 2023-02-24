@@ -22,6 +22,8 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 
+</p>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true)
 
 
