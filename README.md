@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning more to get an improvement on the area.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!]
-- 🧗 I try to: Go beyond and push the bounds
+- 🧗 I try to: Go beyond and push the bounds.
 
 <br>
 
