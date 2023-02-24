@@ -19,10 +19,10 @@
 ### I am a Student at University of Minho
 - 🌱 I’m currently learning more to get an improvement on the area.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!]<a href="https://www.linkedin.com/in/tiago-guedes-60b949232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 - 🧗 I try to: Go beyond and push the bounds
 
-</p>
+<br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true)
 
