@@ -19,7 +19,7 @@
 ### I am a Student at University of Minho
 - 🌱 I’m currently learning more to get an improvement on the area.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!]<a href="https://www.linkedin.com/in/tiago-guedes-60b949232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+- 📬 How to reach me: [Let's get in touch!]
 - 🧗 I try to: Go beyond and push the bounds
 
 <br>
