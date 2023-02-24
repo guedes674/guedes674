@@ -26,6 +26,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true)
 
+<br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guedes674&theme=blue-green)
 
