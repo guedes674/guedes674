@@ -20,3 +20,5 @@
 - 🌱 I’m currently learning more to get an improvement on the area.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?guedes674=anuraghazra&layout=compact)
