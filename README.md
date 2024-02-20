@@ -18,7 +18,7 @@
 
 ### I am a Student at University of Minho
 - 🌱 I am currently learning more to get an improvement on this beautiful area that is programming!
-- 💬 Ask me about whichever, i will be willing to do anything. :smile:
+- 💬 Ask me about whichever, i will be willing to do anything.
 - 🧗 I always try to find out more and more to improve every day.
 
 </p>
