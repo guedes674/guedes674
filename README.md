@@ -10,16 +10,28 @@
 
 ### 🎓 Software Engineering Student | Passionate About Programming | Continuous Learner
 
-### 💻 Skills
-####🧑‍💻 **Languages**
+### 💻 **Skills**
+
+---
+
+### 🧑‍💻 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-- 🌐 **Frameworks**: Node.js, Vue.js, Next.js, React Native, Bootstrap, Tailwind
-- 🛠 **Tools**: Git, Docker, VS Code, JUnit, Pytest
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🌐 **Frameworks**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-202_
+
 
 ### 📦 Projects
 - [Haskell Game (Donkey Kong) - LI1-Project](https://github.com/guedes674/LI1-Project)
