@@ -22,7 +22,6 @@
 - [Data Analysis of a Streaming Music App - LI3-Project](https://github.com/guedes674/LI3-Project)
 - [Distributed Network Monitoring - CC-Project](https://github.com/guedes674/CC-Project)
 - [Problem Solving - Search Algorithms - IA-Project](https://github.com/guedes674/IA-Project)
-- [Problem Solving - Search Algorithms - IA-Project](https://github.com/guedes674/IA-Project)
 
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/guedes674/) or [Email](mailto:tiago.matos.guedes555@gmail.com).
