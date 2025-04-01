@@ -61,7 +61,7 @@
 - [Fitness Application - POO-Project](https://github.com/guedes674/POO-Project)
   - 🛠️ Tech Stack: Java
   - 🔍 Description: A fitness application that helps users track workouts, know how much calories you're burning and heart rate changes.
-- [Task Orchestrator - Project-SO](https://github.com/Tiago5Carneiro/Project-SO)
+- [Task Orchestrator - Project-SO](https://github.com/guedes674/Project-SO)
   - 🛠️ Tech Stack: C
   - 🔍 Description: A Task Orchestrator designed to manage and schedule multiple concurrent tasks efficiently. It utilizes pipelining and FIFO's (First-in First-out) to ensure optimal task execution, resource allocation, and synchronization in real-time systems.
 - [Data Analysis of a Streaming Music App - LI3-Project](https://github.com/guedes674/LI3-Project)
