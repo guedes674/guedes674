@@ -68,7 +68,7 @@
   - 🛠️ Tech Stack: C
   - 🔍 Description: An analytical system for processing and analyzing data from a music streaming platform. It includes features such as play count statistics, a wrapped calculation such as spotify and a massive amount of data all stored in specific data-structures.
 - [Distributed Network Monitoring - CC-Project](https://github.com/guedes674/CC-Project)
-  - 🛠️ Tech Stack: Python, Socket Programming, Multithreading, MongoDB
+  - 🛠️ Tech Stack: Python
   - 🔍 Description: A distributed network monitoring system designed to track and analyze network performance across multiple nodes. It collects real-time data on latency, bandwidth, and packet loss, providing insights for optimizing network efficiency.
 
 ### 📫 Contact Me
