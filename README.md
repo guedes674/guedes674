@@ -55,6 +55,9 @@
 - [F1Hub - A website to F1 enthusiasts](https://github.com/guedes674/F1Hub)
   - 🛠️ Tech Stack: Next.js/Tailwindcss, Python, MySQL, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B
   - 🔍 Description: F1Hub is a central platform for Formula 1 fans, providing news, AI powered driver statistics and driver comparisons.
+- [Willows APP - Mobile App designed for a Coffee Shop](https://github.com/guedes674/Willows-APP)
+  - 🛠️ Tech Stack: React Native, Node.js
+  - 🔍 Description: A full-stack mobile application for a coffee shop, offering features such as online ordering, real-time menu updates and statistics from the shop. The app provides a seamless user experience with a modern UI and efficient backend integration for smooth                       operations.
 - [Fitness Application - POO-Project](https://github.com/guedes674/POO-Project)
   - 🛠️ Tech Stack: Java
   - 🔍 Description: A fitness application that helps users track workouts, know how much calories you're burning and heart rate changes.
@@ -67,9 +70,6 @@
 - [Distributed Network Monitoring - CC-Project](https://github.com/guedes674/CC-Project)
   - 🛠️ Tech Stack: Python, Socket Programming, Multithreading, MongoDB
   - 🔍 Description: A distributed network monitoring system designed to track and analyze network performance across multiple nodes. It collects real-time data on latency, bandwidth, and packet loss, providing insights for optimizing network efficiency.
-- [Willows APP - Mobile App designed for a Coffee Shop](https://github.com/guedes674/Willows-APP)
-  - 🛠️ Tech Stack: React Native, Node.js
-  - 🔍 Description: A full-stack mobile application for a coffee shop, offering features such as online ordering, real-time menu updates and statistics from the shop. The app provides a seamless user experience with a modern UI and efficient backend integration for smooth                       operations.
 
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/guedes674/) or [Email](mailto:tiago.matos.guedes555@gmail.com).
