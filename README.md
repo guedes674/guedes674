@@ -53,7 +53,7 @@
 
 ### 📦 Projects
 - [F1Hub - A website to F1 enthusiasts](https://github.com/guedes674/F1Hub)
-  - 🛠️ Tech Stack: Next.js/Tailwindcss, Python, MySQL, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B
+  - 🛠️ Tech Stack: Next.js/Tailwind CSS, Python, MySQL, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B
   - 🔍 Description: F1Hub is a central platform for Formula 1 fans, providing news, AI powered driver statistics and driver comparisons.
 - [Willows APP - Mobile App designed for a Coffee Shop](https://github.com/guedes674/Willows-APP)
   - 🛠️ Tech Stack: React Native, Node.js
