@@ -73,6 +73,4 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/guedes67
 
 ![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true&theme=gotham)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guedes674&layout=compact&theme=gotham)
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogoacg&theme=tokyonight" alt="GitHub Streak" />
-</div>
+![Tiago's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guedes674&theme=gotham)
