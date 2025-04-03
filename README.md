@@ -72,5 +72,4 @@
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/guedes674/) or [Email](mailto:tiago.matos.guedes555@gmail.com).
 
 ![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true&theme=gotham)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guedes674&layout=compact&theme=gotham)
 ![Tiago's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guedes674&theme=tokyonight&hide_border=true)
