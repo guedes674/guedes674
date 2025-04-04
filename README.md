@@ -7,6 +7,11 @@
   <a href="mailto:tiago.matos.guedes555@gmail.com?subject="><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
 
+### 📑 **Portfolio**
+Take a look at my [Portfolio](https://guedes674.netlify.app/) to explore more of my work and projects.
+
+---
+
 ### 💻 **Skills**
 
 ---
