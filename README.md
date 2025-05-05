@@ -51,12 +51,12 @@ Take a look at my [Portfolio](https://guedes674.netlify.app/) to explore more of
 
 
 ### 📦 Projects
-- [F1Hub - A website to F1 enthusiasts](https://github.com/guedes674/F1Hub)
-  - 🛠️ Tech Stack: Next.js/Tailwind CSS, Python, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B
-  - 🔍 Description: F1Hub is a central platform for Formula 1 fans, providing news, AI powered driver statistics and driver comparisons.
 - [BiteFinder - A Tinder-style app that helps you and your friends decide where to eat.](https://github.com/guedes674/BiteFinder)
   - 🛠️ Tech Stack: React Native/Expo, Python, SingleStore DB, OpenAI API, Google Places API, Gemini, Mistral
   - 🔍 Description: A Tinder style application for you and your friends to help you choose the perfect restaurant for your next night out. Using AI to accommudate the restaurant choices to the user's preferences.
+- [F1Hub - A website to F1 enthusiasts](https://github.com/guedes674/F1Hub)
+  - 🛠️ Tech Stack: Next.js/Tailwind CSS, Python, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B
+  - 🔍 Description: F1Hub is a central platform for Formula 1 fans, providing news, AI powered driver statistics and driver comparisons.
 - [Willows APP - Mobile App designed for a Coffee Shop](https://github.com/guedes674/Willows-APP)
   - 🛠️ Tech Stack: React Native, Node.js
   - 🔍 Description: A full-stack mobile application for a coffee shop, offering features such as online ordering, real-time menu updates and statistics from the shop. The app provides a seamless user experience with a modern UI and efficient backend integration for smooth                       operations.
