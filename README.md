@@ -67,5 +67,5 @@ Take a look at my [Portfolio](https://guedes674.netlify.app/) to explore more of
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/guedes674/) or [Email](mailto:tiago.matos.guedes555@gmail.com).
 
-![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true&layout=compact&theme=gotham&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guedes674&show_icons=true&layout=donut&theme=gotham)
+![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true&layout=compact&theme=github_dark&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guedes674&show_icons=true&layout=donut&theme=github_dark)
