@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Tiago+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Test-Driven+Developer;Coffee-Powered+Dev;Full-Stack+Developer" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Tiago+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Test-Driven+Dev;Coffee-Powered+Dev;Full-Stack+Dev" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tiago-guedes-60b949232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
