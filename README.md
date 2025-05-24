@@ -45,7 +45,8 @@ Take a look at my [Portfolio](https://guedes674.netlify.app/) to explore more of
 ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Zsh](https://img.shields.io/badge/ZSH-242c34?style=for-the-badge&logo=zsh&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1791ce?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ---
 
