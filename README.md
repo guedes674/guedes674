@@ -55,7 +55,7 @@ Take a look at my [Portfolio](https://guedes674.netlify.app/) to explore more of
   - 🛠️ Tech Stack: React Native/Expo, Python, SingleStore DB, OpenAI API, Google Places API, Gemini, Mistral
   - 🔍 Description: A Tinder style application for you and your friends to help you choose the perfect restaurant for your next night out. Using AI to accommudate the restaurant choices to the user's preferences.
 - [F1Hub - Hackathon BugsByte 25](https://github.com/guedes674/F1Hub)
-  - 🛠️ Tech Stack: Next.js/Tailwind CSS, Python, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B
+  - 🛠️ Tech Stack: Next.js/Tailwind CSS, Python, SingleStore DB, Gemini, Llama
   - 🔍 Description: F1Hub is a central platform for Formula 1 fans, providing news, AI powered driver statistics and driver comparisons.
 - [Willows APP - Mobile App designed for a Coffee Shop](https://github.com/guedes674/Willows-APP)
   - 🛠️ Tech Stack: React Native, Node.js
