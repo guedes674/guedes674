@@ -60,9 +60,9 @@ Take a look at my [Portfolio](https://guedes674.netlify.app/) to explore more of
 - [Willows APP - Mobile App designed for a Coffee Shop](https://github.com/guedes674/Willows-APP)
   - 🛠️ Tech Stack: React Native, Node.js
   - 🔍 Description: A full-stack mobile application for a coffee shop, offering features such as online ordering, real-time menu updates and statistics from the shop. The app provides a seamless user experience with a modern UI and efficient backend integration for smooth                       operations.
-- [Fitness Application - POO-Project](https://github.com/guedes674/POO-Project)
-  - 🛠️ Tech Stack: Java
-  - 🔍 Description: A fitness application that helps users track workouts, know how much calories you're burning and heart rate changes.
+- [Solar System Simulator - OpenGL Project](https://github.com/guedes674/CG-Project)
+  - 🛠️ Tech Stack: C++, OpenGL, GLUT
+  - 🔍 Description: A 3D solar system simulation using OpenGL that visualizes the orbits and rotations of planets around the sun. Includes lighting effects, textures, realistic orbits with bezier surfaces and shaders.
 
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/guedes674/) or [Email](mailto:tiago.matos.guedes555@gmail.com).
