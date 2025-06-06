@@ -64,6 +64,46 @@ Take a look at my [Portfolio](https://guedes674.netlify.app/) to explore more of
   - 🛠️ Tech Stack: C++, OpenGL, GLUT
   - 🔍 Description: A 3D solar system simulation using OpenGL that visualizes the orbits and rotations of planets around the sun. Includes lighting effects, textures, realistic orbits with bezier surfaces and shaders.
 
+## 🎓 My university projects
+
+| 1<sup>st</sup> year - 1<sup>st</sup> semester | |
+| --- | :---:  |
+| Laboratórios de Informática I | [Project](https://github.com/guedes674/LI1-Project) |
+
+
+| 1<sup>st</sup> year - 2<sup>nd</sup> semester | |
+| --- | :---: |
+| Laboratórios de Informática II (Laboratórios de Algoritmia I) | [Project]() |
+
+| 2<sup>nd</sup> year - 1<sup>st</sup> semester | |
+| --- | :---: |
+| Laboratórios de Informática III | [Project](https://github.com/guedes674/LI3-Project) |
+
+| 2<sup>nd</sup> year - 2<sup>nd</sup> semester | |
+| --- | :---: |
+| Programação Orientada aos Objetos | [Project](https://github.com/guedes674/POO-Project) |
+| Sistemas Operativos | [Project](https://github.com/guedes674/Project-SO) |
+| Base de Dados | [Project]() |
+| Investigação Operacional | [Project](https://github.com/guedes674/IO-Project) |
+| Redes de Computadores | [Project](https://github.com/guedes674/RC-Project) |
+
+
+| 3<sup>rd</sup> year - 1<sup>st</sup> semester | |
+| --- | :---: |
+| Cálculo de Programas | [Project](https://github.com/guedes674/CP-Project) |
+| Comunicação de Computadores | [Project](https://github.com/guedes674/CC-Project) |
+| Desenvolvimento de Sistemas de Software | [Project](https://github.com/guedes674/DSS-Project) |
+| Inteligência Artificial| [Project](https://github.com/guedes674/IA-Project) |
+| Sistemas Distribuídos | [Project](https://github.com/guedes674/SD-Project) |
+
+
+| 3<sup>rd</sup> year - 2<sup>nd</sup> semester | |
+| --- | :---: |
+| Aprendizagem e Decisão Inteligentes | [Project](https://github.com/guedes674/ADI-Project) |
+| Computação Gráfica | [Project](https://github.com/guedes674/CG-Project) |
+| Processamento de Linguagens | [Project](https://github.com/guedes674/PL-Project) |
+| Interface Pessoa-Máquina | [Project]()
+
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/guedes674/) or [Email](mailto:tiago.matos.guedes555@gmail.com).
 
