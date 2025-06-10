@@ -73,7 +73,7 @@ Take a look at my [Portfolio](https://guedes674.netlify.app/) to explore more of
 
 | 1<sup>st</sup> year - 2<sup>nd</sup> semester | |
 | --- | :---: |
-| Laboratórios de Informática II (Laboratórios de Algoritmia I) | [Project]() |
+| Laboratórios de Informática II (Laboratórios de Algoritmia I) | [Project](https://github.com/guedes674/LA1-Project) |
 
 | 2<sup>nd</sup> year - 1<sup>st</sup> semester | |
 | --- | :---: |
