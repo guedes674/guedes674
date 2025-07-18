@@ -68,44 +68,29 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 
 > Here's a snapshot of the academic work that helped shape my journey.
 
-| 1<sup>st</sup> year - 1<sup>st</sup> semester | |
-| --- | :---:  |
-| Laboratórios de Informática I | [Project](https://github.com/guedes674/LI1-Project) |
+#### **1st Year**
+- [LI1 – Laboratórios de Informática I](https://github.com/guedes674/LI1-Project)
+- [LA1 – Laboratórios de Algoritmia I](https://github.com/guedes674/LA1-Project)
 
+#### **2nd Year**
+- [LI3 – Laboratórios de Informática III](https://github.com/guedes674/LI3-Project)
+- [POO – Programação Orientada aos Objetos](https://github.com/guedes674/POO-Project)
+- [SO – Sistemas Operativos](https://github.com/guedes674/Project-SO)
+- [BD – Base de Dados]() <!-- Adicionar link se disponível -->
+- [IO – Investigação Operacional](https://github.com/guedes674/IO-Project)
+- [RC – Redes de Computadores](https://github.com/guedes674/RC-Project)
 
-| 1<sup>st</sup> year - 2<sup>nd</sup> semester | |
-| --- | :---: |
-| Laboratórios de Informática II (Laboratórios de Algoritmia I) | [Project](https://github.com/guedes674/LA1-Project) |
-
-| 2<sup>nd</sup> year - 1<sup>st</sup> semester | |
-| --- | :---: |
-| Laboratórios de Informática III | [Project](https://github.com/guedes674/LI3-Project) |
-
-| 2<sup>nd</sup> year - 2<sup>nd</sup> semester | |
-| --- | :---: |
-| Programação Orientada aos Objetos | [Project](https://github.com/guedes674/POO-Project) |
-| Sistemas Operativos | [Project](https://github.com/guedes674/Project-SO) |
-| Base de Dados | [Project]() |
-| Investigação Operacional | [Project](https://github.com/guedes674/IO-Project) |
-| Redes de Computadores | [Project](https://github.com/guedes674/RC-Project) |
-
-
-| 3<sup>rd</sup> year - 1<sup>st</sup> semester | |
-| --- | :---: |
-| Cálculo de Programas | [Project](https://github.com/guedes674/CP-Project) |
-| Comunicação de Computadores | [Project](https://github.com/guedes674/CC-Project) |
-| Desenvolvimento de Sistemas de Software | [Project](https://github.com/guedes674/DSS-Project) |
-| Inteligência Artificial| [Project](https://github.com/guedes674/IA-Project) |
-| Sistemas Distribuídos | [Project](https://github.com/guedes674/SD-Project) |
-
-
-| 3<sup>rd</sup> year - 2<sup>nd</sup> semester | |
-| --- | :---: |
-| Aprendizagem e Decisão Inteligentes | [Project](https://github.com/guedes674/ADI-Project) |
-| Computação Gráfica | [Project](https://github.com/guedes674/CG-Project) |
-| Processamento de Linguagens | [Project](https://github.com/guedes674/PL-Project) |
-| Interface Pessoa-Máquina | [Project]()
-| Análise e Teste de Software | [Project](https://github.com/guedes674/ATS-Project) |
+#### **3rd Year**
+- [CP – Cálculo de Programas](https://github.com/guedes674/CP-Project)
+- [CC – Comunicação de Computadores](https://github.com/guedes674/CC-Project)
+- [DSS – Desenvolvimento de Sistemas de Software](https://github.com/guedes674/DSS-Project)
+- [IA – Inteligência Artificial](https://github.com/guedes674/IA-Project)
+- [SD – Sistemas Distribuídos](https://github.com/guedes674/SD-Project)
+- [ADI – Aprendizagem e Decisão Inteligentes](https://github.com/guedes674/ADI-Project)
+- [CG – Computação Gráfica](https://github.com/guedes674/CG-Project)
+- [PL – Processamento de Linguagens](https://github.com/guedes674/PL-Project)
+- [IPM – Interface Pessoa-Máquina]() <!-- Adicionar link se disponível -->
+- [ATS – Análise e Teste de Software](https://github.com/guedes674/ATS-Project)
 
 ---
 
