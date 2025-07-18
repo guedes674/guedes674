@@ -70,7 +70,7 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 
 #### **1st Year**
 - [LI1 – Laboratórios de Informática I](https://github.com/guedes674/LI1-Project)
-- [LA1 – Laboratórios de Algoritmia I](https://github.com/guedes674/LA1-Project)
+- [LA1 – Laboratórios de Algoritmia I (LI2 - Laboratórios de Informática II)](https://github.com/guedes674/LA1-Project)
 
 #### **2nd Year**
 - [LI3 – Laboratórios de Informática III](https://github.com/guedes674/LI3-Project)
