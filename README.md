@@ -111,5 +111,5 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=guedes674&theme=github-dark&hide_border=true&ring=6e40c9&fire=dd3dff&currStreakLabel=ffffff" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=guedes674&theme=github-dark&hide_border=true&ring=6e40c9&fire=dd3dff&currStreakLabel=ffffff" alt="GitHub Streak" width="65%" />
 </p>
