@@ -91,7 +91,7 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 - [ADI – Aprendizagem e Decisão Inteligentes](https://github.com/guedes674/ADI-Project)
 - [CG – Computação Gráfica](https://github.com/guedes674/CG-Project)
 - [PL – Processamento de Linguagens](https://github.com/guedes674/PL-Project)
-- [IPM – Interface Pessoa-Máquina]() <!-- Adicionar link se disponível -->
+- [IPM – Interface Pessoa-Máquina](https://github.com/guedes674/IPM-Project)
 - [ATS – Análise e Teste de Software](https://github.com/guedes674/ATS-Project)
 
 ---
