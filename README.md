@@ -106,6 +106,10 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true&layout=compact&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes674&layout=donut&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&custom_title=Tiago's%20GitHub%20Stats" alt="Tiago's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes674&layout=donut-vertical&theme=github_dark&hide_border=true" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=guedes674&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="75%" />
 </p>
