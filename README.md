@@ -78,7 +78,7 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 - [LI3 – Laboratórios de Informática III](https://github.com/guedes674/LI3-Project)
 - [POO – Programação Orientada aos Objetos](https://github.com/guedes674/POO-Project)
 - [SO – Sistemas Operativos](https://github.com/guedes674/Project-SO)
-- [BD – Base de Dados]() <!-- Adicionar link se disponível -->
+- [BD – Base de Dados](https://github.com/guedes674/BD-Project)
 - [IO – Investigação Operacional](https://github.com/guedes674/IO-Project)
 - [RC – Redes de Computadores](https://github.com/guedes674/RC-Project)
 
