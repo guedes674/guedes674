@@ -88,6 +88,7 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 - [DSS – Desenvolvimento de Sistemas de Software](https://github.com/guedes674/DSS-Project)
 - [IA – Inteligência Artificial](https://github.com/guedes674/IA-Project)
 - [SD – Sistemas Distribuídos](https://github.com/guedes674/SD-Project)
+- [LI4 – Laboratórios de Informática IV](https://github.com/guedes674/LI4-Project)
 - [ADI – Aprendizagem e Decisão Inteligentes](https://github.com/guedes674/ADI-Project)
 - [CG – Computação Gráfica](https://github.com/guedes674/CG-Project)
 - [PL – Processamento de Linguagens](https://github.com/guedes674/PL-Project)
