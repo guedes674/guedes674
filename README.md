@@ -46,8 +46,8 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 #### 🛠 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Gemini](https://camo.githubusercontent.com/84eae5b3079bc3f55098d9ae8ae05971abc1fc882dba5854dbff7e7e380ca5f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f6f676c6525323067656d696e692d3845373542323f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c6525323067656d696e69266c6f676f436f6c6f723d7768697465)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Zsh](https://img.shields.io/badge/ZSH-242c34?style=for-the-badge&logo=zsh&logoColor=white)
