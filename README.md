@@ -106,5 +106,4 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guedes674&layout=compact&show_icons=true&theme=github_dark&langs_count=8)
-![Tiago Guedes](https://github-readme-stats.vercel.app/api?username=guedes674&show_icons=true&theme=github_dark&rank_icon=github)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/guedes674/stats)
