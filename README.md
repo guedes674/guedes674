@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Tiago Guedes**, a passionate **Full-Stack Software Engineer** who loves clean code, creative problem-solving, and building meaningful, user-focused applications. From designing sleek interfaces to developing robust backend systems, I enjoy every part of the development process — especially when fueled by coffee ☕.
+I'm **Tiago Guedes**, a passionate **Frontend Engineer** who thrives on crafting clean, efficient, and visually engaging user experiences. I love transforming ideas into elegant interfaces that balance design and functionality, delivering smooth, intuitive interactions for users. Whether I’m building with modern frameworks, fine-tuning performance, or obsessing over pixel-perfect details — I enjoy every part of bringing the front end to life (especially when fueled by coffee ☕).
 
 When I'm not coding, you'll probably find me gaming 🎮, watching streams 📺, or lifting something heavy at the nearest gym 🏋️.
 
