@@ -67,7 +67,7 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 | [**Solar System Simulator**](https://github.com/guedes674/CG-Project) | 🌌 3D OpenGL simulation of the solar system using realistic lighting, textures, and orbits. |
 
 ---
-
+<!--
 ### 🎓 University Projects
 
 > Here's a snapshot of the academic work that helped shape my journey.
@@ -98,7 +98,7 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 - [ATS – Análise e Teste de Software](https://github.com/guedes674/ATS-Project)
 
 ---
-
+-->
 ### 📬 Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guedes674/)
