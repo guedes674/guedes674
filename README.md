@@ -104,8 +104,3 @@ Explore my [Portfolio Website](https://guedes674.netlify.app/) to see my feature
 - 💼 [LinkedIn](https://www.linkedin.com/in/guedes674/)
 - 📧 [Email](mailto:tiago.matos.guedes555@gmail.com)
 
----
-
-### 📊 GitHub Stats
-
-![Github Stats](https://greptile-stats.vercel.app/api/widget/guedes674/stats)
