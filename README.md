@@ -1,3 +1,17 @@
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Tiago+%F0%9F%91%8B;Frontend+Engineer;Vue+Developer;TypeScript+Tinkerer;Tailwind+Stylist;Responsive+Design+Nerd"
+    alt="Typing SVG"
+  />
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiago-guedes-60b949232/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:tiago.matos.guedes555@gmail.com?subject=Let's Connect!"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 I'm **Tiago Guedes**, a passionate **Frontend Engineer** who thrives on crafting clean, efficient, and visually engaging user experiences. I love transforming ideas into elegant interfaces that balance design and functionality, delivering smooth, intuitive interactions for users. Whether I’m building with modern frameworks, fine-tuning performance, or obsessing over pixel-perfect details — I enjoy every part of bringing the front end to life (especially when fueled by coffee ☕).
