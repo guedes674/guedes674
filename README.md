@@ -2,11 +2,6 @@
   Hello, I'm Tiago Guedes 👋
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tiago-guedes-60b949232/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:tiago.matos.guedes555@gmail.com?subject=Let's Connect!"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
