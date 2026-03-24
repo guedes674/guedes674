@@ -1,9 +1,3 @@
-<h1 align="center">
-  Hello, I'm Tiago Guedes 👋
-</h1>
-
----
-
 ### 👨‍💻 About Me
 
 I'm **Tiago Guedes**, a passionate **Frontend Engineer** who thrives on crafting clean, efficient, and visually engaging user experiences. I love transforming ideas into elegant interfaces that balance design and functionality, delivering smooth, intuitive interactions for users. Whether I’m building with modern frameworks, fine-tuning performance, or obsessing over pixel-perfect details — I enjoy every part of bringing the front end to life (especially when fueled by coffee ☕).
