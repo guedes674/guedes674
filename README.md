@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tiago-guedes-60b949232/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:tiago.matos.guedes555@gmail.com?subject=Let's Connect!"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-  <a href="https://guedes674.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:tiago.matos.guedes555@gmail.com?subject=Let's Connect!"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </p>
 
 ---
@@ -18,8 +17,6 @@
 Frontend Engineer focused on building clean, performant, and accessible web interfaces. I enjoy working close to the user experience — from component architecture to pixel-level polish — using modern frameworks like Vue and React.
 
 Outside of code: gaming 🎮, gym 🏋️, and watching streams 📺.
-
-📂 **[Portfolio](https://guedes674.netlify.app/)** — featured projects, experience, and more.
 
 ---
 
@@ -46,4 +43,4 @@ Outside of code: gaming 🎮, gym 🏋️, and watching streams 📺.
 
 ### 📬 Contact
 
-[LinkedIn](https://www.linkedin.com/in/guedes674/) · [Email](mailto:tiago.matos.guedes555@gmail.com) · [Portfolio](https://guedes674.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/guedes674/) · [Email](mailto:tiago.matos.guedes555@gmail.com)
