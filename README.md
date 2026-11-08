@@ -1,6 +1,6 @@
 # Tiago Guedes
 
-**Portfolio: [tiago-guedes.pages.dev](https://tiago-guedes.pages.dev)**, a self-playing terminal with case studies from my work.
+**Portfolio: [tiagoguedes.dev](https://tiagoguedes.dev)**, a self-playing terminal with case studies from my work.
 
 Frontend engineer at Yari Labs. I build web apps with Vue.js, React and TypeScript, focused on the parts users touch and the experiments that improve them.
 
@@ -15,4 +15,4 @@ I work with AI agents every day and build the guardrails that keep them reliable
 
 ### Contact
 
-[Portfolio](https://tiago-guedes.pages.dev) · [LinkedIn](https://www.linkedin.com/in/guedes674/) · [Email](mailto:tiago.matos.guedes555@gmail.com)
+[Portfolio](https://tiagoguedes.dev) · [LinkedIn](https://www.linkedin.com/in/guedes674/) · [Email](mailto:tiago.matos.guedes555@gmail.com)
